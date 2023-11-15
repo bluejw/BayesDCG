@@ -45,7 +45,6 @@ for (i in 1:n){
   }
 }
 
-
 generate_data <- function(Y){
   Y_update <- array(NA, dim=c(n, max(J), Q))
   for (i in 1:n){
