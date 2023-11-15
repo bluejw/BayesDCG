@@ -11,4 +11,4 @@ This repository contains the R code generating simulated datasets and implementi
 
 In the folder "Data_and_Code":
 
-* The R script "Data_Generate_Scenario_I.R" generates a simulated dataset (i.e., the simulation scenario I of the paper); The R data file "Treatment_History_Data.Rdata" contains the treatment history data for n=200 individuals randomly sampled from the Women's Interagency HIV Study (WIHS) dataset, which will be used to generate a simulated dataset (i.e., the simulation scenario II of the paper) in the R script "Data_Generate_Scenario_II.R";
+* The R script "Data_Generate_Scenario_I.R" generates a simulated dataset (simulation scenario I); The R data file "Treatment_History_Data.Rdata" contains the treatment history data for n=200 individuals randomly sampled from the Women's Interagency HIV Study (WIHS) dataset, which will be used to generate a simulated dataset (simulation scenario II) in the R script "Data_Generate_Scenario_II.R";
