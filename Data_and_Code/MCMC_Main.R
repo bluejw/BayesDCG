@@ -11,7 +11,6 @@ library(LaplacesDemon)
 Rcpp::sourceCpp('MCMC_Rcpp_Functions.cpp')
 source('MCMC_Functions.R')
 
-
 # Generate Simulated Data: Scenario I
 source('Data_Generate_Scenario_I.R') 
 
