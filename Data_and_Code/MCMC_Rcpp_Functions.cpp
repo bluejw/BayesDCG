@@ -31,7 +31,6 @@ double dmvn_rcpp(rowvec& x, rowvec& mean, mat& sigma, bool logd = false){
 }
 
 
-
 // [[Rcpp::export]]
 mat rmvn_rcpp(const int n, vec& mean, mat& sigma){
   
