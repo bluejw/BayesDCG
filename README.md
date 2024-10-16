@@ -1,13 +1,13 @@
 # BayesDCG
 
-**BayesDCG: Bayesian Structural Learning of Directed Cyclic Graphs for Time-Series Causal Discovery**
+**BayesDCG: Bayesian Structural Learning of Directed Cyclic Graphs for Longitudinal Causal Discovery**
 
 R data and code for the paper:
-"Directed Cyclic Graphs for Simultaneous Discovery of Time-Lagged and Instantaneous Causality from Time-Series Data".
+"Directed Cyclic Graphs for Simultaneous Discovery of Time-Lagged and Instantaneous Causality from Longitudinal Data Using Instrumental Variables".
 
 ## Instructions for Use
 
-This repository contains the R code generating simulated datasets and implementing the Bayesian structural learning algorithm proposed in the paper "Directed Cyclic Graphs for Simultaneous Discovery of Time-Lagged and Instantaneous Causality from Time-Series Data".
+This repository contains the R code generating simulated datasets and implementing the Bayesian structural learning algorithm proposed in the paper "Directed Cyclic Graphs for Simultaneous Discovery of Time-Lagged and Instantaneous Causality from Longitudinal Data Using Instrumental Variables".
 
 In the folder "Data_and_Code":
 
