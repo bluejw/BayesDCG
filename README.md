@@ -1,7 +1,5 @@
 # BayesDCG
 
-**BayesDCG: Bayesian Structural Learning of Directed Cyclic Graphs for Longitudinal Causal Discovery**
-
 R data and code for the paper:
 "Directed Cyclic Graphs for Simultaneous Discovery of Time-Lagged and Instantaneous Causality from Longitudinal Data Using Instrumental Variables".
 
